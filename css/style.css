@@ -1030,6 +1030,9 @@ form label {
   padding: 3em 0;
   clear: both;
 }
+#hakkında {
+  margin-top: 45px;
+}
 @media screen and (max-width: 768px) {
   #fh5co-testimonial,
   #fh5co-services,
